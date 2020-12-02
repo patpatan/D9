@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192581599675",
+    "firebase_url": "https://ninjaspace-962de.firebaseio.com",
+    "project_id": "ninjaspace-962de",
+    "storage_bucket": "ninjaspace-962de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192581599675:android:c36b1ab85795c0aeee849e",
+        "android_client_info": {
+          "package_name": "com.TAG.NinjaSpace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192581599675-6ekk5lqtebsi8i20c7a827pcmr2pnvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsU_KnuCYhwx42YjrxZoILQukTJbNqoVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192581599675-6ekk5lqtebsi8i20c7a827pcmr2pnvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
